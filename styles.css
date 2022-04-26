@@ -1,22 +1,26 @@
+
 * {
     margin: 0;
     padding: 0;
     line-height: 1.4;
-}
 
-.container {
     align-items: center;
     max-width: 800px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
 }
 
+
 h1 {
     margin: 5rem;
     text-align: center;
+    /* color: white;
+    background-color: black; */
+    /* font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif */
 }
 
 h2 {
     margin: 4rem;
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
 }
 
 p {
@@ -30,21 +34,39 @@ li {
 
 blockquote {
     margin-left: 50%;
+    /* color: white; */
+    /* background-color: lightgray; */
+    padding: 10px;
 }
 
 table {
     margin: 20px;
+    border-collapse: collapse;
 }
+
 
 td {
     padding: 20px;
     border-bottom: 1px solid black;
 }
 
+em {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+a:visited, a:link {
+    color: black;
+}
+
 img {
     float: right;
     width: 350px;
     height: auto;
+}
+
+sup {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
 }
 
 .footnotes {
