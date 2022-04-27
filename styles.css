@@ -53,6 +53,11 @@ em {
     font-family: Georgia, 'Times New Roman', Times, serif
 }
 
+sup {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
 a {
     text-decoration-style: dotted;
 }
@@ -61,16 +66,36 @@ a:visited, a:link {
     color: black;
 }
 
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 3rem;
+    line-height: 1.4;
+    align-items: center;
+    max-width: 800px;
+}
+
+.footnotes {
+    margin-top: 200px;
+}
+
+.ext-link {
+    margin: 100px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 50px;
+}
+
 #fleischer {
+    margin: 10px;
     float: right;
     width: 350px;
     height: auto;
 }
 
-sup {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    text-decoration: none;
-}
+
 #navbar {
     overflow: hidden;
     background-color: black;
@@ -87,15 +112,3 @@ sup {
     font-weight: bold;
 }
 
-.container {
-    display: flex;
-    flex-direction: column;
-    margin-left: 3rem;
-    line-height: 1.4;
-    align-items: center;
-    max-width: 800px;
-}
-
-.footnotes {
-    margin-top: 200px;
-}
