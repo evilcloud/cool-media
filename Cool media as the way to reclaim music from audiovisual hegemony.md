@@ -100,3 +100,37 @@ github.com/evilcloud/Death-Grips-simulator
 [^7]: Opensource 3D modeling software Blender can be seen in Inanimate Sensation, for instance
 [^8]: GitHub and Openprocessing are free tier specialised hosting platforms. p5.js is an opensource JavaScript framework, just as JavaScript itself. The enumeration function in the *No Love* simulator was taken from public domain (credited)
 
+
+
+
+
+2017 Music Consumption Report — The Overall Landscape (no date). AudienceNet. Available at: https://musicbiz.org/wp-content/up loads/2017/09/MusicConsumptionTheOverallLandscape/Audience Net.pdf.
+
+Aufderheide, P. (1986) ‘Music Videos: The Look of the Sound’, Jour- nal of Communication, 36(1), pp. 57–78.
+ doi: 10.1111/j.1460-2466.1986.tb03039.x.
+
+Baudrillard, J. and Poster, M. (2007) Selected writings. 2. ed. Stan- ford, Calif: Stanford Univ. Press.
+
+Beattie, K. and Astruc, A. (no date) ‘“It Is An Art That Cannot Live By Looking Back”: Dont Look Back, Performance, and the Revision of Direct Cinema’, Dont Look Back, p. 16.
+
+Denisoff, R. S. (1991) Inside MTV. 1. paperback reprint. New York: Transaction Publ.
+
+Hawkins, G. M. (no date) ‘ “Whatever I Want:” Death Grips, Disobe- dience and the Music Industries’, p. 141.
+
+Hill, Z. and Lee, C. (2012) ‘HIVE FIVE: DEATH GRIPS’ TIPS ON HOW TO SHOOT A $20 MUSIC VIDEO’. Available at: http://ww w.mtv.com/news/2695717/death-grips-music-video-tips/.
+
+Holt, F. (2011) ‘Is music becoming more visual? Online video con- tent in the music industry’, Visual Studies, 26(1), pp. 50–61. doi: 10.1080/1472586X.2011.548489.
+
+IFPI Global Music Report 2018. IFPI. Available at: https://www.if pi.org/downloads/GMR2018.pdf.
+
+Kelley, A. (2015) “A Revolution in the Atmosphere”: The Dynamics of Site and Screen in 1940s Soundies’, Cinema Journal, 54(2), pp. 72–93. doi: 10.1353/cj.2015.0012.
+
+Manovich, L. (2001) The language of new media. Cambridge, Mass.: MIT Press (Leonardo).
+
+9
+
+Merton, R. K. (1938) ‘Social Structure and Anomie’, American Soci- ological Review, 3(5), p. 672. doi: doi.org/10.2307/2084686.
+
+Munk, N. (2004) Fools rush in: Steve Case, Jerry Levin, and the unmaking of AOL Time Warner. New York: HarperBusiness.
+
+WTFPL – Do What the Fuck You Want to Public License. Available at: http://www.wtfpl.net/.
